@@ -6,7 +6,7 @@
   />
 </p>
 
-##👋 Hola, soy Bogari Guzmán Ramírez
+#👋 Hola, soy Bogari Guzmán Ramírez
 
 ### Backend Developer en formación | Ingeniero en Sistemas Computacionales
 
