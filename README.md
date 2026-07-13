@@ -1,44 +1,68 @@
-👋 ¡Hola! Soy Bogari Guzmán Ramírez
+<h1 align="center">¡Hola! 👋 Soy Bogari Guzmán Ramírez</h1>
 
-<h3 align="center">💻 Backend Developer en formación | Ingeniero en Sistemas Computacionales</h3>
+<h3 align="center">
+Backend Developer en formación | Ingeniero en Sistemas Computacionales
+</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Backend+Developer+en+formación;Laravel+%7C+PHP+%7C+MySQL;Siempre+aprendiendo+algo+nuevo" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+GitHub;Backend+Developer;Laravel+%7C+PHP+%7C+MySQL;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
 
-🚀 Sobre mí
+---
 
-🎓 Ingeniero en Sistemas Computacionales.
+# 👨‍💻 Sobre mí
 
-💻 Actualmente enfocado en el desarrollo Backend utilizando Laravel y PHP.
+💻 Ingeniero en Sistemas Computacionales.
 
-📚 Me apasiona desarrollar soluciones para negocios reales mediante aplicaciones web.
+🚀 Actualmente especializándome en Desarrollo Backend.
 
-🛒 Actualmente estoy construyendo un Sistema POS para Abarrotes con Laravel, aplicando buenas prácticas de desarrollo, autenticación, gestión de inventario, clientes y ventas.
+🔥 Aprendiendo:
+
+- Laravel
+- PHP
+- MySQL
+- Git
+- GitHub
+- APIs REST
+
+📦 Actualmente desarrollando:
+
+**Sistema POS para Abarrotes** con Laravel.
 
 🎯 Mi objetivo es convertirme en un Backend Developer profesional y participar en proyectos de alto impacto.
 
-🛠 Tecnologías
+---
+
+# 🚀 Tecnologías
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,html,css,bootstrap,js,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,html,css,bootstrap,js,vscode,docker"/>
 
 </p>
 
-📂 Proyecto Destacado
-🛒 Sistema POS para Abarrotes
+---
 
-Aplicación desarrollada con Laravel para la administración de pequeños y medianos negocios.
+# 📂 Proyecto Destacado
 
-Funcionalidades
-🔐 Inicio de sesión
-👥 Gestión de usuarios
-📦 Productos
-🏷 Categorías
-💲 Ventas
-👤 Clientes
-📈 Reportes
-📊 Inventario
-📊 Estadísticas
+## 🛒 Sistema POS para Abarrotes
+
+Sistema desarrollado con Laravel orientado a pequeños y medianos negocios.
+
+### Funciones
+
+- 🔐 Login
+- 👤 Usuarios
+- 📦 Productos
+- 🏷 Categorías
+- 👥 Clientes
+- 💰 Ventas
+- 📈 Reportes
+- 📊 Inventario
+
+---
+
+# 📊 Estadísticas
 
 <p align="center">
 
@@ -48,7 +72,9 @@ Funcionalidades
 
 </p>
 
-🔥 Racha de contribuciones
+---
+
+# 🔥 Racha
 
 <p align="center">
 
@@ -56,7 +82,9 @@ Funcionalidades
 
 </p>
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -64,35 +92,49 @@ Funcionalidades
 
 </p>
 
-🎯 Actualmente aprendiendo
-Laravel
-Arquitectura MVC
-APIs REST
-Docker
-Buenas prácticas Backend
-Git Flow
-🌎 Idiomas
+---
 
-🇲🇽 Español — Nativo
+# 🌱 Actualmente aprendiendo
 
-🇺🇸 Inglés — Intermedio básico
+- Laravel Avanzado
+- Arquitectura MVC
+- APIs REST
+- Docker
+- Clean Code
+- Git Flow
 
-📫 Contacto
+---
 
-📧 Correo
+# 🌎 Idiomas
 
-bogarigr@gmail.com
+🇲🇽 Español (Nativo)
 
-💼 LinkedIn
+🇺🇸 Inglés (Intermedio básico)
 
-Bogari Guzmán Ramírez
+---
 
-🐙 GitHub
+# 📫 Conecta conmigo
 
-github.com/Bogari
+<p align="left">
 
-<h3 align="center">
+<a href="mailto:bogarigr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-"Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones que hagan la diferencia."
+<a href="https://github.com/Bogari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</h3>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💻 *"El código que escribimos hoy construye las soluciones del mañana."*
+
+</p>
