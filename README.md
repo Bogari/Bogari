@@ -1,11 +1,7 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Bogari/Bogari/main/assets/banner.png"
-    alt="Bogari Guzmán Ramírez"
-    width="100%"
-  />
+  <img src="./assets/banner.png" alt="Banner de Bogari Guzmán Ramírez" width="100%" />
 </p>
-<br>
+---
 #👋 Hola, soy Bogari Guzmán Ramírez 
 
 ### Backend Developer en formación | Ingeniero en Sistemas Computacionales
