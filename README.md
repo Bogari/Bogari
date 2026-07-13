@@ -1,4 +1,4 @@
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000694c71fdab3e37c742b58df6&ts=495536&p=fs&cid=1&sig=c9f166f21fae88529e1ac72c550d9f7dd08bae1a7e3a543a4502f7961b2cc7f8&v=0
+
 # 👋 Hola, soy Bogari Guzmán Ramírez
 
 ### Backend Developer en formación | Ingeniero en Sistemas Computacionales
