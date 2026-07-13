@@ -5,7 +5,7 @@
     width="100%"
   />
 </p>
-#
+<br>
 #👋 Hola, soy Bogari Guzmán Ramírez 
 
 ### Backend Developer en formación | Ingeniero en Sistemas Computacionales
