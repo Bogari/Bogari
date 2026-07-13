@@ -80,66 +80,36 @@ Sistema web desarrollado con **Laravel** para facilitar la administración de pe
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/Bogari">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Bogari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es"
-      alt="Estadísticas de GitHub de Bogari"
-    />
-  </a>
-
-  <a href="https://github.com/Bogari">
-    <img
-      width="41%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogari&layout=compact&theme=tokyonight&hide_border=true&locale=es"
-      alt="Lenguajes más utilizados por Bogari"
-    />
-  </a>
-</p>
-
----
-
-## 🔥 Racha de contribuciones
-
-<p align="center">
-  <a href="https://github.com/Bogari">
-    <img
-      src="https://streak-stats.demolab.com?user=Bogari&theme=tokyonight&hide_border=true&locale=es"
-      alt="Racha de contribuciones de Bogari"
-    />
-  </a>
-</p>
-
----
-
-## 📈 Gráfico de actividad
+## 📊 Actividad en GitHub
 
 <p align="center">
   <a href="https://github.com/Bogari">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Bogari&theme=tokyo-night&hide_border=true&area=true"
-      alt="Gráfico de actividad de GitHub de Bogari"
+      alt="Gráfico de actividad de Bogari"
     />
   </a>
 </p>
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 📌 Perfil de GitHub
 
-- Laravel y su ecosistema
-- Arquitectura MVC
-- Desarrollo de APIs REST
-- Buenas prácticas de programación
-- Clean Code
-- Git y flujo de trabajo con GitHub
-- Docker
-- Arquitectura Backend
+<p align="center">
+  <a href="https://github.com/Bogari?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Ver_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositorios de Bogari"
+    />
+  </a>
 
----
+  <a href="https://github.com/Bogari/abarrotes-pos-laravel">
+    <img
+      src="https://img.shields.io/badge/Proyecto_POS-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+      alt="Proyecto POS Laravel"
+    />
+  </a>
+</p>
 
 ## 🎯 Objetivos profesionales
 
