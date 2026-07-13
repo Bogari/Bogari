@@ -1,140 +1,192 @@
 <h1 align="center">¡Hola! 👋 Soy Bogari Guzmán Ramírez</h1>
 
 <h3 align="center">
-Backend Developer en formación | Ingeniero en Sistemas Computacionales
+  Ingeniero en Sistemas Computacionales | Backend Developer en formación
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+GitHub;Backend+Developer;Laravel+%7C+PHP+%7C+MySQL;Siempre+aprendiendo+nuevas+tecnologías" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=FF2D20&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+en+formación;Laravel+%7C+PHP+%7C+MySQL;Construyendo+soluciones+para+problemas+reales"
+    alt="Presentación animada de Bogari Guzmán Ramírez"
+  />
 </p>
 
 ---
 
-# 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-💻 Ingeniero en Sistemas Computacionales.
-
-🚀 Actualmente especializándome en Desarrollo Backend.
-
-🔥 Aprendiendo:
-
-- Laravel
-- PHP
-- MySQL
-- Git
-- GitHub
-- APIs REST
-
-📦 Actualmente desarrollando:
-
-**Sistema POS para Abarrotes** con Laravel.
-
-🎯 Mi objetivo es convertirme en un Backend Developer profesional y participar en proyectos de alto impacto.
+- 🎓 Soy **Ingeniero en Sistemas Computacionales**.
+- 💻 Me estoy especializando en **desarrollo Backend**.
+- 🌱 Actualmente estoy fortaleciendo mis conocimientos en **Laravel, PHP y MySQL**.
+- 🛒 Estoy desarrollando un **Sistema POS para Abarrotes con Laravel**.
+- 🧠 Me interesa crear aplicaciones que solucionen necesidades reales de los negocios.
+- 📚 Me considero una persona comprometida con el aprendizaje continuo.
+- 🎯 Busco crecer profesionalmente como **Backend Developer**.
+- 🌎 Estoy abierto a oportunidades de trabajo remoto.
 
 ---
 
-# 🚀 Tecnologías
+## 🛠️ Tecnologías y herramientas
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,html,css,bootstrap,js,vscode,docker"/>
-
-</p>
-
----
-
-# 📂 Proyecto Destacado
-
-## 🛒 Sistema POS para Abarrotes
-
-Sistema desarrollado con Laravel orientado a pequeños y medianos negocios.
-
-### Funciones
-
-- 🔐 Login
-- 👤 Usuarios
-- 📦 Productos
-- 🏷 Categorías
-- 👥 Clientes
-- 💰 Ventas
-- 📈 Reportes
-- 📊 Inventario
-
----
-
-# 📊 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bogari&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Racha
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Bogari&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bogari&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🌱 Actualmente aprendiendo
-
-- Laravel Avanzado
-- Arquitectura MVC
-- APIs REST
-- Docker
-- Clean Code
-- Git Flow
-
----
-
-# 🌎 Idiomas
-
-🇲🇽 Español (Nativo)
-
-🇺🇸 Inglés (Intermedio básico)
-
----
-
-# 📫 Conecta conmigo
+### Backend y base de datos
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP, Laravel y MySQL" />
+</p>
 
-<a href="mailto:bogarigr@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Frontend
 
-<a href="https://github.com/Bogari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="HTML, CSS, Bootstrap y JavaScript" />
+</p>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+### Herramientas de desarrollo
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub y Visual Studio Code" />
+</p>
+
+---
+
+## 🚀 Proyecto destacado
+
+### 🛒 Sistema POS para Abarrotes
+
+Sistema web desarrollado con **Laravel** para facilitar la administración de pequeños y medianos negocios.
+
+🔗 [Ver repositorio del proyecto](https://github.com/Bogari/abarrotes-pos-laravel)
+
+### Funcionalidades contempladas
+
+- 🔐 Autenticación de usuarios
+- 👤 Administración de usuarios
+- 📦 Gestión de productos
+- 🏷️ Gestión de categorías
+- 👥 Registro de clientes
+- 💰 Control de ventas
+- 📊 Control de inventario
+- 📈 Generación de reportes
+- ⚙️ Configuración del sistema
+
+### Tecnologías utilizadas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://github.com/Bogari">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=Bogari&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es"
+      alt="Estadísticas de GitHub de Bogari"
+    />
+  </a>
+
+  <a href="https://github.com/Bogari">
+    <img
+      width="41%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogari&layout=compact&theme=tokyonight&hide_border=true&locale=es"
+      alt="Lenguajes más utilizados por Bogari"
+    />
+  </a>
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <a href="https://github.com/Bogari">
+    <img
+      src="https://streak-stats.demolab.com?user=Bogari&theme=tokyonight&hide_border=true&locale=es"
+      alt="Racha de contribuciones de Bogari"
+    />
+  </a>
+</p>
+
+---
+
+## 📈 Gráfico de actividad
+
+<p align="center">
+  <a href="https://github.com/Bogari">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Bogari&theme=tokyo-night&hide_border=true&area=true"
+      alt="Gráfico de actividad de GitHub de Bogari"
+    />
+  </a>
+</p>
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Laravel y su ecosistema
+- Arquitectura MVC
+- Desarrollo de APIs REST
+- Buenas prácticas de programación
+- Clean Code
+- Git y flujo de trabajo con GitHub
+- Docker
+- Arquitectura Backend
+
+---
+
+## 🎯 Objetivos profesionales
+
+- Dominar Laravel y PHP.
+- Construir proyectos completos y funcionales.
+- Desarrollar APIs REST seguras.
+- Mejorar mis conocimientos de bases de datos.
+- Aprender despliegue de aplicaciones con Docker.
+- Crear un portafolio sólido de proyectos.
+- Conseguir una oportunidad profesional como Backend Developer.
+
+---
+
+## 🌎 Idiomas
+
+- 🇲🇽 **Español:** nativo
+- 🇺🇸 **Inglés:** básico-intermedio
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:bogarigr@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-bogarigr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Correo electrónico"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/bogari-guzman-ramirez">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Bogari_Guzmán_Ramírez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn de Bogari Guzmán Ramírez"
+    />
+  </a>
+
+  <a href="https://github.com/Bogari">
+    <img
+      src="https://img.shields.io/badge/GitHub-Bogari-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub de Bogari"
+    />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-💻 *"El código que escribimos hoy construye las soluciones del mañana."*
-
+  <strong>💻 «La mejora continua es la clave para transformar buenas ideas en grandes soluciones».</strong>
 </p>
