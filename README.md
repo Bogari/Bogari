@@ -1,10 +1,14 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Banner de Bogari Guzmán Ramírez" width="100%" />
 </p>
----
-#👋 Hola, soy Bogari Guzmán Ramírez 
 
-### Backend Developer en formación | Ingeniero en Sistemas Computacionales
+<h1 align="center">
+  👋 ¡Hola! Soy <span style="color:#FF2D20;">Bogari Guzmán Ramírez</span>
+</h1>
+
+<h3 align="center">
+  Backend Developer en formación • Ingeniero en Sistemas Computacionales
+</h3>
 
 Desarrollador apasionado por crear soluciones para negocios mediante aplicaciones web robustas, escalables y bien estructuradas.
 
